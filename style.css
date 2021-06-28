@@ -1,0 +1,85 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.container{
+    margin-bottom: 50px;
+}
+
+#navbarNav a{
+    padding-left: 20px;
+}
+
+#carouselExampleIndicators .col{
+    background-color: #FF9C35;
+}
+
+.card{
+    border: none;
+    box-shadow: 10px 10px 5px lightgray;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.left-left img{
+    width: 120px;
+    height: 120px;
+
+}
+.left-left{
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 70px lightgray;
+}
+
+
+.left-right-above img{
+    width: 120px;
+    height: 120px;
+}
+.left-right-above{
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 70px lightgray;
+}
+
+.left-right-below img{
+    width: 120px;
+    height: 120px;
+}
+.left-right-below{
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 70px lightgray;
+}
+
+.left-right-above, .left-left, .left-right-below{
+    text-align: center;
+}
+.color{
+    margin-bottom: 20px;
+    background-color: #FF9C35; 
+    height: 5px; 
+    width: 100px;
+    border-radius: 2px;
+    background-image: linear-gradient(to left,rgb(255, 217, 0), rgb(255, 102, 0));
+}
+
+
+footer{
+    text-align: center;
+    color: black;
+    font-weight: 600;
+}
+
+
+
+
+
