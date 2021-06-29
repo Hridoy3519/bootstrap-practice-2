@@ -35,7 +35,7 @@ h1{
     margin-bottom: 20px;
     width: 150px;
     height: 150px;
-    box-shadow: 5px 5px 70px lightgray;
+    box-shadow: 10px 10px 20px lightgray;
 }
 
 
@@ -47,7 +47,7 @@ h1{
     margin-bottom: 20px;
     width: 150px;
     height: 150px;
-    box-shadow: 5px 5px 70px lightgray;
+    box-shadow: 10px 10px 20px lightgray;
 }
 
 .left-right-below img{
@@ -57,7 +57,7 @@ h1{
 .left-right-below{
     width: 150px;
     height: 150px;
-    box-shadow: 5px 5px 70px lightgray;
+    box-shadow: 10px 10px 20px lightgray;
 }
 
 .left-right-above, .left-left, .left-right-below{
